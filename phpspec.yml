@@ -1,0 +1,5 @@
+suites:
+  mahami_suites:
+    namespace: Mahami
+    src_path: src
+    spec_prefix: spec
