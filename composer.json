@@ -6,6 +6,7 @@
         "presenter",
         "laravel"
     ],
+    "license": "MIT",
     "authors": [
         {
             "name": "Mahdi Hatami",
