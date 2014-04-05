@@ -9,6 +9,9 @@ use Mahami\Presenter\Exceptions\PresenterException;
  */
 trait PresentableTrait {
 
+    /**
+     * @var The presenterInstance follows our singleton pattern
+     */
     protected $presenterInstance;
 
     /**
