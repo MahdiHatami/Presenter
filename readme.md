@@ -4,12 +4,6 @@
 
 Pull this package in through Composer.
 
-```js
-{
-    "require": {
-        "mahami/presenter": "0.1.*"
-    }
-}
+```sh
+composer require mahami/presenter
 ```
-
-
